@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6f3ee6e-1e8e-4cd9-b95e-a78e7335b7c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/pharma/PharmaSupplyChainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/pharma/PharmaSupplyChainApplication.java" afterDir="false" />
     </list>
@@ -103,7 +102,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Spring Boot.PharmaSupplyChainApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/pharma-updates",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Shankar/Downloads/pharma-supply-chain-github-pratice",
     "node.js.detected.package.eslint": "true",

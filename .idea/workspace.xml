@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6f3ee6e-1e8e-4cd9-b95e-a78e7335b7c3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="26" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000088357515" />
+      <entry key="S5" value="1.000600478411791" />
+      <entry key="S10" value="1.0245046610217505" />
+      <entry key="S30" value="1.2904577037937426" />
+      <entry key="S60" value="1.5389412804691642" />
+      <entry key="M2" value="1.734126202004236" />
+      <entry key="M5" value="1.8837069895056608" />
+      <entry key="M10" value="1.9400569075889293" />
+      <entry key="M15" value="1.9596276730038" />
+      <entry key="M30" value="1.979609779034174" />
+      <entry key="H1" value="1.9937014436824323" />
+      <entry key="H2" value="2.120576447892069" />
+      <entry key="H4" value="2.706552291255745" />
+      <entry key="D1" value="4.997608454452497" />
+      <entry key="W1" value="5.83852228105982" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.14063231058610115" />
+      <entry key="MS500" value="0.6754870422678187" />
+      <entry key="S2" value="0.9065760871924277" />
+      <entry key="S5" value="0.9621056609253545" />
+      <entry key="S10" value="1.0046203989940907" />
+      <entry key="S30" value="1.2821140096476698" />
+      <entry key="S60" value="1.5339802286371202" />
+      <entry key="M2" value="1.7313361266993967" />
+      <entry key="M5" value="1.8824960996537627" />
+      <entry key="M10" value="1.9394335963560811" />
+      <entry key="M15" value="1.959207995508587" />
+      <entry key="M30" value="1.9793978283816434" />
+      <entry key="H1" value="1.9935946688097486" />
+      <entry key="H2" value="2.1205188594775986" />
+      <entry key="H4" value="2.7065137201364404" />
+      <entry key="D1" value="4.997595649166696" />
+      <entry key="W1" value="5.838520117307268" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JAf90qmqPPAR1lc0oSAf28EvpZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PharmaSupplyChainApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.PharmaSupplyChainApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.PharmaSupplyChainApplication">
+    <configuration name="PharmaSupplyChainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.pharma.PharmaSupplyChainApplication" />
+      <module name="pharma-supply-chain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.pharma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pharma-company-backend-practice-with-jira" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PharmaSupplyChainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="pharma-supply-chain" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.company.pharma.PharmaSupplyChainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.pharma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PharmaSupplyChainApplication" />
+        <item itemvalue="Spring Boot.PharmaSupplyChainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6f3ee6e-1e8e-4cd9-b95e-a78e7335b7c3" name="Changes" comment="" />
+      <created>1789108678721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789108678721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

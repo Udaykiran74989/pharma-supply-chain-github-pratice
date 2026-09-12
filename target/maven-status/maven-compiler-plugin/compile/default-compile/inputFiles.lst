@@ -1,0 +1,14 @@
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\batch\MedicineBatch.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\batch\MedicineBatchRepository.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\batch\QualityStatus.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\common\ApiExceptionHandler.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\config\DataInitializer.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\medicine\Medicine.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\medicine\MedicineRepository.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\order\CreateOrderRequest.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\order\DistributorOrder.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\order\DistributorOrderController.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\order\DistributorOrderRepository.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\order\DistributorOrderService.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\order\OrderStatus.java
+E:\pharma-company-backend-practice-with-jira\src\main\java\com\company\pharma\PharmaSupplyChainApplication.java
